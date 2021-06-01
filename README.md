@@ -6,7 +6,7 @@ in case you have problems with "degit" when running it as a command line in your
 # STEPS
 ### 01.To create a new project based on this template using degit:
 ```bash
-npx degit sveltejs/template 
+npx degit sveltejs/template NameofYourApp
 cd NameofYourApp
 ```
 ### 02.Install the dependencies...
