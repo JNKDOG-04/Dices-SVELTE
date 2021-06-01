@@ -1,6 +1,6 @@
 # Dices with SVELTE
 
-En este repositorio verás una ejemplo con Svelte, en el cual se utiliza enrutamiento de imágenes por medio de JavaScript.
+In this repository you will see an example with Svelte, which uses image routing via JavaScript.
 
 *Note that you will need to have Node.js installed. Also install the git application,
 in case you have problems with "degit" when running it as a command line in your operating system's bash.*
